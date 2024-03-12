@@ -1,0 +1,44 @@
+{
+   "all":[
+      {
+         "name":{
+            "common":"United Kingdom",
+            "official":"United Kingdom of Great Britain and Northern Ireland"
+         },
+         "capital":[
+            "London"
+         ],
+         "flags":{
+            "png":"https://flagcdn.com/w320/gb.png",
+            "svg":"https://flagcdn.com/gb.svg",
+            "alt":"The flag of the United Kingdom — the Union Jack — has a blue field.  ..."
+         }
+      },
+      {
+         "name":{
+            "common":"South Africa",
+            "official":"Republic of South Africa"
+         },
+         "capital":[
+            "Pretoria",
+            "Bloemfontein",
+            "Cape Town"
+         ],
+         "flags":{
+            "png":"https://flagcdn.com/w320/za.png",
+            "svg":"https://flagcdn.com/w320/za.svg",
+            "alt":"The flag of South Africa is composed of two equal horizontal bands ... "
+         }
+      },
+      {
+         "name":{
+            "common":"Bouvet Island",
+            "official":"Bouvet Island"
+         },
+         "flags":{
+            "png":"https://flagcdn.com/w320/bv.png",
+            "svg":"https://flagcdn.com/w320/bv.svg"
+         }
+      }
+   ]
+}
