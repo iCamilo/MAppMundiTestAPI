@@ -14,7 +14,7 @@ For the API server I am using [My JSON Server](https://my-json-server.typicode.c
 <details>
 <summary>GET all</summary>
 
-```json
+ ```json
 GET https://my-json-server.typicode.com/iCamilo/MAppMundiTestAPI/all
 200 Response
 
@@ -62,6 +62,4 @@ GET https://my-json-server.typicode.com/iCamilo/MAppMundiTestAPI/all
 ]
 
 ```
-
-  
-<details>
+</details>
